@@ -16,3 +16,12 @@ See index.html
 -Maybe add autofill this README from index.html in this project as well
 Status: Not Yet Started
 
+
+
+
+
+Rules:
+Only 30 minutes allowed!
+Commit as often as you can to show progress.
+README.md can be updated anytime, no other files can be touched outside of the 30 minute window
+
