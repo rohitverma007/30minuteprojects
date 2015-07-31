@@ -4,6 +4,10 @@ Project 1: Default Project (July 30, 2015 - 8:30pm - 9:00pm)
 - homepage for 30minuteprojects
 - lets see how this goes
 
+  Resources Used:
+  - bootstrap
+  - bootsnipp : http://bootsnipp.com/snippets/featured/list-grid-view
+  
   Status Update/Notes:
   - Basically Finished
   - Used bootstrap for layout
