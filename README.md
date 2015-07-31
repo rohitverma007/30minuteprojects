@@ -1,6 +1,7 @@
 # 30minuteprojects
 July 30 - 8:30pm - 9:00pm
-Default Project
+
+Project 1: Default Project
 - Shows lists of projects
 - homepage for 30minuteprojects
 - lets see how this goes
@@ -12,16 +13,21 @@ Status: Completed
 
 
 Project 2:
-See index.html
--Maybe add autofill this README from index.html in this project as well
+
+- Automate commiting after each change and automate the time.
+- Automate adding of projects to the list of projects instead of editing html? Maybe make a database or something
+- Maybe add autofill this README from index.html in this project as well
 Status: Not Yet Started
 
 
 
 
 
-Rules:
-Only 30 minutes allowed!
-Commit as often as you can to show progress.
-README.md can be updated anytime, no other files can be touched outside of the 30 minute window
+**Rules:**
+
+1. Only 30 minutes allowed.
+
+2. Commit as often as you can to show progress.
+
+3. README.md can be updated anytime (not too often), no other files can be touched outside of the 30 minute window
 
