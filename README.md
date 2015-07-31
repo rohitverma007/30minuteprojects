@@ -1,7 +1,5 @@
 # 30minuteprojects
-July 30 - 8:30pm - 9:00pm
-
-Project 1: Default Project
+Project 1: Default Project (July 30, 2015 - 8:30pm - 9:00pm)
 - Shows lists of projects
 - homepage for 30minuteprojects
 - lets see how this goes
